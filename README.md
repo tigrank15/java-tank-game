@@ -1,9 +1,3 @@
-# csc413-tankgame
-
-## Student Name  : Tigran Kurkchiyants
-## Student ID    : 917946840
-
-
 ## src folder is to be used for source code only.
 
 ## resources folder is to be used to store the resources for your project only. This includes images, sounds, map text files, etc.
